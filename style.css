@@ -690,9 +690,9 @@ input.ui-button::-moz-focus-inner,button.ui-button::-moz-focus-inner {border: 0;
 
 body .ui-tooltip {border-width: 2px}
 
-.ui-widget {font-family: Lucida Grande,Lucida Sans,Arial,sans-serif;font-size:0.95em}
+.ui-widget {font-family: Lucida Grande,Lucida Sans,Arial,sans-serif;font-size:1.0em}
 
-	.ui-widget .ui-widget {font-size: 0.95em}
+	.ui-widget .ui-widget {font-size: 1.0em}
 
 	.ui-widget input,.ui-widget select,.ui-widget textarea,.ui-widget button {font-family: Lucida Grande,Lucida Sans,Arial,sans-serif;font-size:1em}
 
