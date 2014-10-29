@@ -73,10 +73,9 @@
 	cursor: pointer;
 	position: relative;
 	margin: 2px 0 0 0;
-	height: 100%;
 	/*padding: .5em .5em .5em .7em;*/
 	min-height: 0;
-	font-size: 100%
+	font-size: 90%
  }
 
 .ui-accordion .ui-accordion-icons {padding-left: 2.2em}
