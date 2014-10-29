@@ -675,7 +675,8 @@ input.ui-button::-moz-focus-inner,button.ui-button::-moz-focus-inner {border: 0;
 .ui-tabs .ui-tabs-panel {
 	display: block;
 	border-width: 0;
-	padding: 1em 1.4em;
+/*	padding: 1em 1.4em;*/
+padding: 0.8em;
 	background: none
  }
 
